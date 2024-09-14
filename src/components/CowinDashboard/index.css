@@ -1,0 +1,46 @@
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view {
+  height: 450px;
+}
+
+.failure-description {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'sans-serif';
+  color: #161625;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  max-width: 1160px;
+  padding: 20px;
+}
+
+.cowin-logo-container {
+  display: flex;
+}
+
+.website-logo {
+  height: 25px;
+}
+
+.website-name {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #2cc6c6;
+}
+
+.website-heading {
+  padding-top: 26px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #ffffff;
+}
